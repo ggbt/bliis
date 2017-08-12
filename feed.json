@@ -1,0 +1,53 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "bliist",
+    "description": "",
+    "home_page_url": "https://ggbt.github.io/bliis",
+    "feed_url": "https://ggbt.github.io/bliis/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "G"
+    },
+    "items": [
+        {
+            "id": "https://ggbt.github.io/bliis/third-post.html",
+            "url": "https://ggbt.github.io/bliis/third-post.html",
+            "title": "Third post",
+            "content_html": "<h2>Pics</h2>\n<p class=\"msg msg--highlight \">I would like to see an image gallery here.</p>\n<p>&nbsp;<img src=\"https://ggbt.github.io/bliis/media/posts/3/aneta-ivanova-776.jpg\" alt=\"\" width=\"5184\" height=\"3456\"></p>\n<p><img src=\"https://ggbt.github.io/bliis/media/posts/3/dan-carlson-141263.jpg\" alt=\"\" width=\"6000\" height=\"4000\"></p>\n<p><img src=\"https://ggbt.github.io/bliis/media/posts/3/jason-blackeye-209586.jpg\" alt=\"\" width=\"6000\" height=\"4000\"></p>\n<p><img src=\"https://ggbt.github.io/bliis/media/posts/3/tom-barrett-318952.jpg\" alt=\"\" width=\"5508\" height=\"4000\"></p>",
+            "image": "https://ggbt.github.io/bliis/media/posts/3/freddy-marschall-186923.jpg",
+            "author": {
+                "name": "G"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-08-12T18:17:44+03:00",
+            "date_modified": "2017-08-12T17:58:55+03:00"
+        },
+        {
+            "id": "https://ggbt.github.io/bliis/second-post.html",
+            "url": "https://ggbt.github.io/bliis/second-post.html",
+            "title": "Second post",
+            "content_html": "<h2>Where does it come from?&nbsp;</h2>\n<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.</p>\n<p><img src=\"https://ggbt.github.io/bliis/media/posts/2/image-editing-101040_1280.jpg\" alt=\"\" width=\"1280\" height=\"640\"></p>",
+            "author": {
+                "name": "G"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-08-12T18:17:44+03:00",
+            "date_modified": "2017-08-12T17:59:56+03:00"
+        },
+        {
+            "id": "https://ggbt.github.io/bliis/first-post.html",
+            "url": "https://ggbt.github.io/bliis/first-post.html",
+            "title": "First post",
+            "content_html": "<h2>What is Lorem Ipsum?&nbsp;</h2>\n<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>\n<h2>Why do we use it?</h2>\n<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>",
+            "author": {
+                "name": "G"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-08-12T18:17:44+03:00",
+            "date_modified": "2017-08-12T17:59:52+03:00"
+        }
+    ]
+}
