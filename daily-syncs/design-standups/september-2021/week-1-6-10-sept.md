@@ -6,14 +6,14 @@
 
 ## Monday 6th Sept
 
-<table><thead><tr><th>Role</th><th data-type="users" data-multiple>People</th></tr></thead><tbody><tr><td>Facilitator</td><td></td></tr><tr><td>Scribe</td><td></td></tr><tr><td>Attendees</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Role</th><th data-type="users">People</th></tr></thead><tbody><tr><td>Facilitator</td><td></td></tr><tr><td>Scribe</td><td></td></tr><tr><td>Attendees</td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
 **Good to know:** it's always good to keep a record of who attended meetings, who was facilitating the meeting, and who was designated as the lucky person to take notes. A 'Users' column type in a table lets you quickly add any member of your organization to a column, making tracking this a breeze!
 {% endhint %}
 
-* Image gallery designs coming along well, Indeed!!
-* Need sales feedback on new marketing collateral
+* Image gallery designs coming along well, Indeed!!!!
+* Need sales feedback on new marketing collateral!!!
 * Blog post on variants ready to go
 
 ### Action items:
@@ -23,19 +23,19 @@
 
 ## Tuesday 7th Sept
 
-<table><thead><tr><th>Role</th><th data-type="users" data-multiple>People</th></tr></thead><tbody><tr><td>Facilitator</td><td></td></tr><tr><td>Scribe</td><td></td></tr><tr><td>Attendees</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Role</th><th data-type="users">People</th></tr></thead><tbody><tr><td>Facilitator</td><td></td></tr><tr><td>Scribe</td><td></td></tr><tr><td>Attendees</td><td></td></tr></tbody></table>
 
 *
 
 ## Wednesday 8th Sept
 
-<table><thead><tr><th>Role</th><th data-type="users" data-multiple>People</th></tr></thead><tbody><tr><td>Facilitator</td><td></td></tr><tr><td>Scribe</td><td></td></tr><tr><td>Attendees</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Role</th><th data-type="users">People</th></tr></thead><tbody><tr><td>Facilitator</td><td></td></tr><tr><td>Scribe</td><td></td></tr><tr><td>Attendees</td><td></td></tr></tbody></table>
 
 *
 
 ## Thursday 9th Sept
 
-<table><thead><tr><th>Role</th><th data-type="users" data-multiple>People</th></tr></thead><tbody><tr><td>Facilitator</td><td></td></tr><tr><td>Scribe</td><td></td></tr><tr><td>Attendees</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Role</th><th data-type="users">People</th></tr></thead><tbody><tr><td>Facilitator</td><td></td></tr><tr><td>Scribe</td><td></td></tr><tr><td>Attendees</td><td></td></tr></tbody></table>
 
 *
 
