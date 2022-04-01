@@ -12,7 +12,7 @@
 **Good to know:** it's always good to keep a record of who attended meetings, who was facilitating the meeting, and who was designated as the lucky person to take notes. A 'Users' column type in a table lets you quickly add any member of your organization to a column, making tracking this a breeze!
 {% endhint %}
 
-* Image gallery designs coming along well, Indeed!!!!
+* Image gallery designs coming along well, Indeed!!
 * Need sales feedback on new marketing collateral
 * Blog post on variants ready to go
 
