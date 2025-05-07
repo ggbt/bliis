@@ -1,9 +1,15 @@
 # Table of contents
 
-* [Main22222 !!! 111111 workspacechange](README.md)
+* [Growing flowers](README.md)
 
 ## Group 1
 
-* [Uno changed! !!!](group-1/uno-changed.md)
-* [Dos \_\_\_\_\_ 2222](group-1/dos-\_\_\_\_\_-2222.md)
-* [Tres 2222](group-1/tres-2222.md)
+* [Red flowers](group-1/red-flowers/README.md)
+  * [Dahlia](group-1/red-flowers/dahlia.md)
+  * [Page](group-1/red-flowers/page/README.md)
+    * [Poppy](group-1/red-flowers/page/poppy.md)
+
+## Group 2
+
+* [Green flowers](group-2/green-flowers/README.md)
+  * [Chrysanthemum](group-2/green-flowers/chrysanthemum.md)

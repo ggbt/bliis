@@ -1,0 +1,15 @@
+# New Project experience - starting from scratch
+
+The aim is to improve the experience of starting a project from scratch.
+
+MVP:
+- Create a new publication from scratch
+- Add new topic to Publication
+
+
+- Ditamap editing (reuse webauthor tree somehow)
+
+
+
+Use documentation.new as sample-project generator. Or any LLM.
+
